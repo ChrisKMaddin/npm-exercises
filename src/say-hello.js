@@ -1,5 +1,6 @@
 const hello = () => {
-    return "You are nice"
+    return "Thank you for being a friend."
 };
 
 module.exports = hello;
+
